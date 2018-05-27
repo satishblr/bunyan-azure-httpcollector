@@ -1,4 +1,4 @@
-#reated by Satish Arasegowda
+#created by Satish Arasegowda
 
 var request = require('request'),
     crypto = require('crypto'),
